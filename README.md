@@ -23,6 +23,7 @@ https://xxxx/vtiles-open/zxy/{t}/{z}/{x}/{y}.pbf (without AccessToken)
 ## URL request to raster
 https://xxxx/plow/raster/{z}/{x}/{y}.png (raster tile)  
 https://xxxx/plow-open/raster/{z}/{x}/{y}.png (raster tile without access token)  
+Note: if you use RHEL or CentOS, playwright may not work due to the missing libraries. Please check them and install necessary packages.  
 
 ## See also  
 https://docs.microsoft.com/en-us/graph/tutorials/node?WT.mc_id=Portal-Microsoft_AAD_RegisteredApps&tutorial-step=3  
