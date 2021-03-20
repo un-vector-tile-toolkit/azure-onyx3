@@ -1,5 +1,5 @@
 {
-  "name": "azure-onyx2",
+  "name": "azure-onyx3",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -28,6 +28,7 @@
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.31",
     "morgan": "^1.10.0",
+    "playwright": "^1.9.2",
     "uuid": "^8.3.1",
     "windows-iana": "^4.2.1"
   }

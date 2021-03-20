@@ -96,6 +96,7 @@ app.use('/auth', authRouter);
 app.use('/users', usersRouter);
 app.use('/vtile-s', vtileSRouter);
 app.use('/vtile-m', vtileMRouter);
+app.use('/vtile-open', vtileMORouter);
 app.use('/plow', plowRouter);
 app.use('/plow-open', plowORouter);
 
